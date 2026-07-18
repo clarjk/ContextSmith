@@ -33,7 +33,7 @@ The project has no third-party runtime or test dependencies.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/ContextSmith.git
+git clone https://github.com/clarjk/ContextSmith.git
 cd ContextSmith
 python3.12 -m venv .venv
 source .venv/bin/activate
